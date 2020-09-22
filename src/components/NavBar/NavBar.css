@@ -1,0 +1,17 @@
+.NavBar {
+    background-color: cyan;
+    font-size: 20px;
+    color: white;
+    height: 70px;
+  }
+
+  .NavBar > ul {
+      display:flex;
+      padding:20px;
+      justify-content: center;
+  }
+
+  a {
+      padding-right: 50px;
+      text-decoration: none;
+  }
